@@ -4,12 +4,13 @@ cyberpunk-2077-green:
   dark-cyan-color: "#1D4E51"
   dark-purple-color: "#140C15"
   dark-red-color: "#4A1D1F"
+  dark-green-color: "#2b4a1d"
   orange-color: "#FFA500"
   primary-font-family: "'Rajdhani', 'Roboto'"
   red-color: "#F44638"
   green-color: "#78f438"
   primary-background: 'url()'
-  background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/flejz/hass-cyberpunk-2077-theme/master/assets/background.jpg')"
+  background-image: "center / cover no-repeat fixed url('https://github.com/madbobmcjim/hass-cyberpunk-2077-theme-green/blob/master/assets/background.jpg')"
 
   # configs 
   accent-color: "var(--green-color)"
@@ -30,7 +31,7 @@ cyberpunk-2077-green:
   data-table-background-color: "var(--dark-purple-color)"
   disabled-color: "var(--dark-purple-color)"
   disabled-text-color: "var(--dark-purple-color)"
-  divider-color: "var(--dark-red-color)"
+  divider-color: "var(--dark-green-color)"
   energy-battery-in-color: ""
   energy-battery-out-color: ""
   energy-gas-color: ""
@@ -40,7 +41,7 @@ cyberpunk-2077-green:
   energy-solar-color: ""
   error-color: ""
   error-state-color: ""
-  ha-card-background: "var(--dark-red-color)"
+  ha-card-background: "var(--dark-green-color)"
   ha-card-border-color: ""
   ha-card-border-radius: ""
   ha-card-header-font-size: ""
@@ -272,7 +273,7 @@ cyberpunk-2077-green:
   material-small-font-size: ""
   mdc-button-disabled-ink-color: ""
   mdc-button-outline-color: ""
-  mdc-button-raised-box-shadow-hover: "0 0 5px 3px var(--dark-red-color)"
+  mdc-button-raised-box-shadow-hover: "0 0 5px 3px var(--dark-green-color)"
   mdc-checkbox-disabled-color: ""
   mdc-checkbox-unchecked-color: "var(--green-color)"
   mdc-dialog-scroll-divider-color: ""
@@ -304,12 +305,12 @@ cyberpunk-2077-green:
   mdc-text-field-outlined-hover-border-color: ""
   mdc-text-field-outlined-idle-border-color: ""
   mdc-theme-error: ""
-  mdc-theme-on-primary: "var(--dark-red-color)"
+  mdc-theme-on-primary: "var(--dark-green-color)"
   mdc-theme-on-secondary: "var(--dark-purple-color)"
   mdc-theme-on-surface: "var(--cyan-color)"
   mdc-theme-primary: "var(--cyan-color)"
   mdc-theme-secondary: "var(--cyan-color)"
-  mdc-theme-surface: "var(--dark-red-color)"
+  mdc-theme-surface: "var(--dark-green-color)"
   mdc-theme-background: "var(--dark-purple-color)"
   mdc-theme-text-disabled-on-light: ""
   mdc-theme-text-hint-on-background: ""
@@ -497,7 +498,7 @@ cyberpunk-2077-green:
   paper-item-min-height: ""
   paper-item-selected: "var(--cyan-color)"
   paper-item-selected-weight: ""
-  paper-listbox-background-color: "var(--dark-red-color)"
+  paper-listbox-background-color: "var(--dark-green-color)"
   paper-slider-active-color: "var(--cyan-color)"
   paper-slider-container-color: "var(--dark-purple-color)"
   paper-slider-knob-color: "var(--cyan-color)"
@@ -531,7 +532,7 @@ cyberpunk-2077-green:
   shadow-transition_-_transition: ""
   sidebar-background-color: "var(--dark-purple-color)"
   sidebar-icon-color: "var(--green-color)"
-  sidebar-selected-background-color: "var(--dark-red)"
+  sidebar-selected-background-color: "var(--dark-green)"
   sidebar-selected-icon-color: "var(--cyan-color)"
   sidebar-selected-color: "var(--cyan-color)"
   sidebar-selected-text-color: "var(--cyan-color)"
@@ -572,7 +573,7 @@ cyberpunk-2077-green:
   text-accent-color: "var(--cyan-color)"
   text-light-primary-background-color: "var(--dark-purple-color)"
   text-primary-color: "var(--dark-purple-color)"
-  text-primary-background-color: "var(--dark-red-color)"
+  text-primary-background-color: "var(--dark-green-color)"
   warning-color: ""
 
   # card-mod
@@ -639,7 +640,7 @@ cyberpunk-2077-green:
     }
 
     ha-card:before {
-      background: var(--dark-red-color);
+      background: var(--dark-green-color);
       content: '';
       display: block;
       height: calc(100% - 3px);
@@ -733,7 +734,7 @@ cyberpunk-2077-green:
     }
 
     paper-icon-item:before {
-      background: var(--dark-red-color);
+      background: var(--dark-green-color);
       clip-path: polygon(
         5px 0px,
         100% 0px, 
@@ -776,7 +777,7 @@ cyberpunk-2077-green:
     }
 
     paper-icon-item:hover:before {
-      background-color: var(--dark-red-color);
+      background-color: var(--dark-green-color);
     }
 
     .iron-selected paper-icon-item:focus::before,
