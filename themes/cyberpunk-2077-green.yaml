@@ -7,15 +7,16 @@ cyberpunk-2077:
   orange-color: "#FFA500"
   primary-font-family: "'Rajdhani', 'Roboto'"
   red-color: "#F44638"
+  green-color: "#78f438"
   primary-background: 'url()'
   background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/flejz/hass-cyberpunk-2077-theme/master/assets/background.jpg')"
 
   # configs 
-  accent-color: "var(--red-color)"
+  accent-color: "var(--green-color)"
   app-header-background-color: "var(--dark-purple-color)"
   app-header-edit-background-color: "var(--dark-purple-color)"
   app-header-edit-text-color: "var(--primary-text-color)"
-  app-header-text-color: "var(--red-color)"
+  app-header-text-color: "var(--green-color)"
   app-header-selection-bar-color: "var(--cyan-color)"
   app-toolbar-font-size: ""
   card-background-color: "var(--dark-purple-color)"
@@ -43,18 +44,18 @@ cyberpunk-2077:
   ha-card-border-color: ""
   ha-card-border-radius: ""
   ha-card-header-font-size: ""
-  hacs-error-color: "var(--red-color)"
+  hacs-error-color: "var(--green-color)"
   hacs-warning-color: "var(--orange-color_"
   hacs-update-color: "var(--cyan-color)"
   hacs-new-color: "var(--cyan-color)"
-  hacs--default-icon-color: "var(--red-color)"
+  hacs--default-icon-color: "var(--green-color)"
   header-height: ""
-  icon-color: "var(--red-color)"
+  icon-color: "var(--green-color)"
   info-color: ""
   input-disabled-fill-color: ""
   input-disabled-ink-color: ""
   input-disabled-line-color: ""
-  input-dropdown-icon-color: "var(--red-color)"
+  input-dropdown-icon-color: "var(--green-color)"
   input-fill-color: ""
   input-hover-line-color: ""
   input-idle-line-color: ""
@@ -68,7 +69,7 @@ cyberpunk-2077:
   label-badge-green: ""
   label-badge-grey: ""
   label-badge-red: ""
-  label-badge-color: "var(--red-color)"
+  label-badge-color: "var(--green-color)"
   label-badge-yellow: ""
   layout_-_display: ""
   layout-around-aligned_-_align-content: ""
@@ -245,21 +246,21 @@ cyberpunk-2077:
   light-theme-disabled-color: "var(--cyan-color)"
   light-theme-secondary-background-color: "var(--dark-purple-color)"
   light-theme-secondary-color: ""
-  light-theme-color: "var(--red-color)"
+  light-theme-color: "var(--green-color)"
   markdown-code-background-color: "var(--dark-purple-color)"
   material-background-color: "var(--dark-purple-color)"
-  material-body-color: "var(--red-color)"
+  material-body-color: "var(--green-color)"
   material-button-font-size: ""
   material-caption-font-size: ""
-  material-disabled-color: "var(--red-color)"
+  material-disabled-color: "var(--green-color)"
   material-divider-color: ""
-  material-error-color: "var(--red-color)"
+  material-error-color: "var(--green-color)"
   material-h6-font-size: ""
   material-primary-background-color: "var(--dark-purple-color)"
   material-primary-contrast-color: ""
-  material-primary-color: "var(--red-color)"
+  material-primary-color: "var(--green-color)"
   material-secondary-background-color: "var(--dark-purple-color)"
-  material-secondary-color: "var(--red-color)"
+  material-secondary-color: "var(--green-color)"
   material-shadow-elevation-12dp: ""
   material-shadow-elevation-16dp: ""
   material-shadow-elevation-24dp: ""
@@ -273,20 +274,20 @@ cyberpunk-2077:
   mdc-button-outline-color: ""
   mdc-button-raised-box-shadow-hover: "0 0 5px 3px var(--dark-red-color)"
   mdc-checkbox-disabled-color: ""
-  mdc-checkbox-unchecked-color: "var(--red-color)"
+  mdc-checkbox-unchecked-color: "var(--green-color)"
   mdc-dialog-scroll-divider-color: ""
   mdc-radio-disabled-color: ""
   mdc-radio-unchecked-color: ""
-  mdc-ripple-color: "var(--red-color)"
-  mdc-select-disabled-dropdown-icon-color: "var(--red-color)"
-  mdc-select-disabled-fill-color: "var(--dark-red-color)"
-  mdc-select-disabled-ink-color: "var(--red-color)"
-  mdc-select-dropdown-icon-color: "var(--red-color)"
+  mdc-ripple-color: "var(--green-color)"
+  mdc-select-disabled-dropdown-icon-color: "var(--green-color)"
+  mdc-select-disabled-fill-color: "var(--dark-green-color)"
+  mdc-select-disabled-ink-color: "var(--green-color)"
+  mdc-select-dropdown-icon-color: "var(--green-color)"
   mdc-select-fill-color: "var(--dark-purple-color)"
   mdc-select-hover-line-color: ""
   mdc-select-idle-line-color: ""
-  mdc-select-ink-color: "var(--red-color)"
-  mdc-select-label-ink-color: "var(--red-color)"
+  mdc-select-ink-color: "var(--green-color)"
+  mdc-select-label-ink-color: "var(--green-color)"
   mdc-select-outlined-disabled-border-color: ""
   mdc-select-outlined-hover-border-color: ""
   mdc-select-outlined-idle-border-color: ""
@@ -297,8 +298,8 @@ cyberpunk-2077:
   mdc-text-field-fill-color: "var(--dark-purple-color)"
   mdc-text-field-hover-line-color: ""
   mdc-text-field-idle-line-color: ""
-  mdc-text-field-ink-color: "var(--red-color)"
-  mdc-text-field-label-ink-color: "var(--red-color)"
+  mdc-text-field-ink-color: "var(--green-color)"
+  mdc-text-field-label-ink-color: "var(--green-color)"
   mdc-text-field-outlined-disabled-border-color: ""
   mdc-text-field-outlined-hover-border-color: ""
   mdc-text-field-outlined-idle-border-color: ""
@@ -313,7 +314,7 @@ cyberpunk-2077:
   mdc-theme-text-disabled-on-light: ""
   mdc-theme-text-hint-on-background: ""
   mdc-theme-text-icon-on-background: ""
-  mdc-theme-text-primary-on-background: "var(--red-color)"
+  mdc-theme-text-primary-on-background: "var(--green-color)"
   mdc-theme-text-secondary-on-background: ""
   mini-media-player-overlay-color-stop: ""
   mush-rgb-red: ""
@@ -344,7 +345,7 @@ cyberpunk-2077:
   mush-rgb-state-cover: ""
   mush-rgb-state-fan: ""
   mush-rgb-state-light: ""
-  mush-rgb-state-entity: "var(--red-color)"
+  mush-rgb-state-entity: "var(--green-color)"
   paper-dropdown-menu: ""
   paper-dropdown-menu-button: ""
   paper-dropdown-menu-disabled: ""
@@ -462,17 +463,17 @@ cyberpunk-2077:
   paper-font-title_-_text-overflow: ""
   paper-font-title_-_-webkit-font-smoothing: ""
   paper-font-title_-_white-space: ""
-  paper-input-container-color: "var(--red-color)"
+  paper-input-container-color: "var(--green-color)"
   paper-input-container-background-color: ""
   paper-input-container-input: ""
   paper-input-container-input_-_font-size: ""
   paper-input-container-input-align: ""
-  paper-input-container-input-color: "var(--red-color)"
+  paper-input-container-input-color: "var(--green-color)"
   paper-input-container-focus-color: "var(--cyan-color)"
   paper-input-container-shared-input-style_-_background: ""
   paper-input-container-shared-input-style_-_border: ""
   paper-input-container-shared-input-style_-_box-shadow: ""
-  paper-input-container-shared-input-style_-_color: "var(--red-color)"
+  paper-input-container-shared-input-style_-_color: "var(--green-color)"
   paper-input-container-shared-input-style_-_font-family: "var(--primary-font-family)"
   paper-input-container-shared-input-style_-_font-size: ""
   paper-input-container-shared-input-style_-_font-weight: ""
@@ -492,7 +493,7 @@ cyberpunk-2077:
   paper-item-focused: ""
   paper-item-focused-before: ""
   paper-item-icon-active-color: "var(--cyan-color)"
-  paper-item-icon-color: "var(--red-color)"
+  paper-item-icon-color: "var(--green-color)"
   paper-item-min-height: ""
   paper-item-selected: "var(--cyan-color)"
   paper-item-selected-weight: ""
@@ -501,18 +502,18 @@ cyberpunk-2077:
   paper-slider-container-color: "var(--dark-purple-color)"
   paper-slider-knob-color: "var(--cyan-color)"
   paper-slider-knob-start-color: "var(--cyan-color)"
-  paper-slider-pin-color: "var(--red-color)"
+  paper-slider-pin-color: "var(--green-color)"
   paper-slider-pin-start-color: "var(--cyan-color)"
-  paper-slider-secondary-color: "var(--red-color)"
+  paper-slider-secondary-color: "var(--green-color)"
   paper-tab-ink: "var(--cyan-color)"
   primary-color: "var(--orange-color)"
   primary-background-color: "var(--dark-purple-color)"
-  primary-text-color: "var(--red-color)"
-  rgb-accent-color: "var(--red-color)"
+  primary-text-color: "var(--green-color)"
+  rgb-accent-color: "var(--green-color)"
   rgb-card-background-color: "var(--dark-purple-color)"
   rgb-primary-background-color: "var(--dark-purple-color)"
-  rgb-primary-color: "var(--red-color)"
-  rgb-secondary-color: "var(--red-color)"
+  rgb-primary-color: "var(--green-color)"
+  rgb-secondary-color: "var(--green-color)"
   rgb-text-primary-background-color: "var(--dark-purple-color)"
   scrollbar-thumb-color: ""
   secondary-background-color: "var(--dark-purple-color)"
@@ -529,14 +530,14 @@ cyberpunk-2077:
   shadow-none_-_box-shadow: ""
   shadow-transition_-_transition: ""
   sidebar-background-color: "var(--dark-purple-color)"
-  sidebar-icon-color: "var(--red-color)"
+  sidebar-icon-color: "var(--green-color)"
   sidebar-selected-background-color: "var(--dark-red)"
   sidebar-selected-icon-color: "var(--cyan-color)"
   sidebar-selected-color: "var(--cyan-color)"
   sidebar-selected-text-color: "var(--cyan-color)"
-  sidebar-color: "var(--red-color)"
-  slider-color: "var(--red-color)"
-  slider-secondary-color: "var(--red-color)"
+  sidebar-color: "var(--green-color)"
+  slider-color: "var(--green-color)"
+  slider-secondary-color: "var(--green-color)"
   slider-track-color: "var(--dark-purple-color)"
   state-climate-auto-color: ""
   state-climate-cool-color: ""
@@ -547,10 +548,10 @@ cyberpunk-2077:
   state-climate-idle-color: ""
   state-climate-manual-color: ""
   state-climate-off-color: ""
-  state-color: "var(--red-color)"
+  state-color: "var(--green-color)"
   state-home-color: ""
   state-icon-active-color: ""
-  state-icon-color: "var(--red-color)"
+  state-icon-color: "var(--green-color)"
   state-icon-error-color: ""
   state-icon-unavailable-color: ""
   state-idle-color: ""
@@ -563,7 +564,7 @@ cyberpunk-2077:
   switch-checked-button-color: "var(--cyan-color)"
   switch-checked-color: "var(--cyan-color)"
   switch-checked-track-color: "var(--cyan-color)"
-  switch-unchecked-button-color: "var(--red-color)"
+  switch-unchecked-button-color: "var(--green-color)"
   switch-unchecked-color: "var(--dark-purple-color)"
   switch-unchecked-track-color: "var(--dark-purple-color)"
   table-row-alternative-background-color: "var(--dark-purple-color)"
@@ -615,7 +616,7 @@ cyberpunk-2077:
     }
 
     ha-card {
-      background-color: var(--red-color);
+      background-color: var(--green-color);
     }
 
     ha-card:hover {
@@ -650,10 +651,10 @@ cyberpunk-2077:
     }
 
     ha-card:after {
-      background: var(--red-color);
+      background: var(--green-color);
       bottom: 0px;
       clip-path: polygon(100% 0%, 100% 2px, 2px 100%, 0% 100%);
-      color: var(--red-color); 
+      color: var(--green-color);
       content: '';
       display: block;
       height: 20px;
@@ -716,7 +717,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item {
-      background-color: var(--red-color);
+      background-color: var(--green-color);
       border-radius: 1px !important;
       clip-path: polygon(
         0px calc(100% - 7px),
@@ -756,7 +757,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item:after {
-      background-color: var(--red-color);
+      background-color: var(--green-color);
       content: '';
       display: block;
       height: 100%;
