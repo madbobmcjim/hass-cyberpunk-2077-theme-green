@@ -578,7 +578,7 @@ cyberpunk-2077-green:
   warning-color: ""
 
   # card-mod
-  card-mod-theme: cyberpunk-2077
+  card-mod-theme: cyberpunk-2077-green
 
   card-mod-root: |
     app-toolbar {
