@@ -6,7 +6,8 @@ cyberpunk-2077-green:
   dark-red-color: "#4A1D1F"
   dark-green-color: "#2b4a1d"
   orange-color: "#FFA500"
-  primary-font-family: "'Rajdhani', 'Roboto'"
+#  primary-font-family: "'Rajdhani', 'Roboto'"
+  primary-font-family: "Rajdhani"
   red-color: "#F44638"
   green-color: "#78f438"
   primary-background: 'url()'
