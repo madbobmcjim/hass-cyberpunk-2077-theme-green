@@ -21,7 +21,7 @@ cyberpunk-2077-green:
   app-header-text-color: "var(--green-color)"
   app-header-selection-bar-color: "var(--cyan-color)"
   app-toolbar-font-size: ""
-  bsc-background: var(--green-color);
+  bsc-background: "var(--green-color);"
   card-background-color: "var(--dark-purple-color)"
   chip-background-color: "var(--dark-purple-color)"
   dark-disabled-opacity: ""
