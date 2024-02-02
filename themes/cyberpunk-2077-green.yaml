@@ -19,7 +19,7 @@ cyberpunk-2077-green:
   app-header-edit-background-color: "var(--dark-purple-color)"
   app-header-edit-text-color: "var(--primary-text-color)"
   app-header-text-color: "var(--green-color)"
-  app-header-selection-bar-color: "var(--cyan-color)"
+  app-header-selection-bar-color: "var(--green-color)"
   app-toolbar-font-size: ""
   bsc-background: "var(--green-color)"
   card-background-color: "var(--dark-purple-color)"
@@ -472,7 +472,7 @@ cyberpunk-2077-green:
   paper-input-container-input_-_font-size: ""
   paper-input-container-input-align: ""
   paper-input-container-input-color: "var(--green-color)"
-  paper-input-container-focus-color: "var(--cyan-color)"
+  paper-input-container-focus-color: "var(--green-color)"
   paper-input-container-shared-input-style_-_background: ""
   paper-input-container-shared-input-style_-_border: ""
   paper-input-container-shared-input-style_-_box-shadow: ""
@@ -495,13 +495,13 @@ cyberpunk-2077-green:
   paper-item-disabled-color: ""
   paper-item-focused: ""
   paper-item-focused-before: ""
-  paper-item-icon-active-color: "var(--cyan-color)"
+  paper-item-icon-active-color: "var(--green-color)"
   paper-item-icon-color: "var(--green-color)"
   paper-item-min-height: ""
-  paper-item-selected: "var(--cyan-color)"
+  paper-item-selected: "var(--green-color)"
   paper-item-selected-weight: ""
   paper-listbox-background-color: "var(--dark-green-color)"
-  paper-slider-active-color: "var(--cyan-color)"
+  paper-slider-active-color: "var(--green-color)"
   paper-slider-container-color: "var(--dark-purple-color)"
   paper-slider-knob-color: "var(--cyan-color)"
   paper-slider-knob-start-color: "var(--cyan-color)"
@@ -686,8 +686,8 @@ cyberpunk-2077-green:
       font-weight: bold;
       margin-top: 4px;
       text-shadow: 0 0 0 transparent, 
-                   0 0 10px var(--cyan-color), 
-                   0 0 20px var(--cyan-color);
+                   0 0 10px var(--green-color),
+                   0 0 20px var(--green-color);
       text-transform: uppercase;
     }
 
