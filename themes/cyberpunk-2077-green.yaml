@@ -707,10 +707,10 @@ cyberpunk-2077-green:
     a[aria-selected=true] paper-icon-item span,
     a[aria-selected=true] paper-icon-item ha-icon,
     a[aria-selected=true] paper-icon-item ha-svg-icon {
-      color: var(--cyan-color);
+      color: var(--green-color);
       font-weight: bold;
       text-shadow: 0 0 0 transparent, 
-                   0 0 10px var(--cyan-color);
+                   0 0 10px var(--green-color);
     }
 
     paper-icon-item:hover ha-icon,
