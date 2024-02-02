@@ -635,7 +635,7 @@ cyberpunk-2077-green:
 
     ha-card:hover,
     ha-card:hover:after {
-      background-color: var(--cyan-color);
+      background-color: var(--green-color);
     }
 
     ha-card > * {
