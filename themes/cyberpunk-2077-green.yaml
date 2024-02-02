@@ -775,8 +775,8 @@ cyberpunk-2077-green:
     paper-icon-item:hover:after,
     a[aria-selected=true] paper-icon-item,
     a[aria-selected=true] paper-icon-item:after {
-      color: var(--cyan-color); 
-      background-color: var(--cyan-color); 
+      color: var(--green-color);
+      background-color: var(--green-color);
     }
 
     paper-icon-item:hover:before {
@@ -787,7 +787,7 @@ cyberpunk-2077-green:
     paper-icon-item:focus:before,
     paper-icon-item:focus:before,
     a[aria-selected=true] paper-icon-item:before {
-      background-color: var(--dark-cyan-color); 
+      background-color: var(--dark-green-color);
     }
 
     .iron-selected paper-icon-item:focus::before,
@@ -805,5 +805,5 @@ cyberpunk-2077-green:
 
     div.tooltip {
       color: var(--dark-purple-color);
-      background-color: var(--cyan-color);
+      background-color: var(--green-color);
     }
