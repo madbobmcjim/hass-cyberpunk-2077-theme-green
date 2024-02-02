@@ -21,6 +21,7 @@ cyberpunk-2077-green:
   app-header-text-color: "var(--green-color)"
   app-header-selection-bar-color: "var(--cyan-color)"
   app-toolbar-font-size: ""
+  bsc-background: var(--green-color);
   card-background-color: "var(--dark-purple-color)"
   chip-background-color: "var(--dark-purple-color)"
   dark-disabled-opacity: ""
@@ -43,7 +44,7 @@ cyberpunk-2077-green:
   error-color: ""
   error-state-color: ""
   ha-card-background: "var(--dark-green-color)"
-  ha-card-border-color: "var(--green-color)"
+  ha-card-border-color: ""
   ha-card-border-radius: ""
   ha-card-header-font-size: ""
   hacs-error-color: "var(--green-color)"
